@@ -1,0 +1,8 @@
+At an event in San Francisco, Qualcomm said it plans to begin testing its new Cloud AI 100 chip with partners such as Microsoft Corp later this year, with mass production likely to begin in 2020.
+Qualcomm's new chip is designed for what artificial intelligence researchers call "inference" - the process of using an AI algorithm that has been "trained" with massive amounts of data in order to, for example, translate audio into text-based requests.
+Analysts believe chips for speeding up inference will be the largest part of the AI chip market.
+Nvidia has released special chips for the task and Intel is working with Facebook Inc on one that will be released later this year. Cloud computing vendors such as Amazon.com's Amazon Web Services and Alphabet Inc's Google Cloud unit are also making their own inference chips.
+All that activity means Qualcomm is entering a crowded field behind its rivals.
+But Cristiano Amon, Qualcomm's president and the chief of its chip division, said the San Diego company is taking a different approach by aiming to serve the smaller, simpler data centres that are proliferating around the world so that consumers can benefit from faster response times for their internet-connected apps.
+In order to serve those smaller "edge" data sites, Qualcomm is focusing on AI chips that consume small amounts of electricity and generate little heat - a speciality it developed when making chips for mobile phones, which run on small batteries and live in pockets.
+Rivals such as Intel and Nvidia make more powerful chips that dominate in centralized data centres that suck up electricity and need complex cooling systems.

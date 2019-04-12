@@ -1,0 +1,6 @@
+the values ('', '', '', '', '', '', 0)
+the values ('piuh', 'l;io;ih', 'kuhp', 'i;ub', 'uib', 'piuh', 1)
+the values ('piuh', 'l;io;ih', 'kuhp', 'i;ub', 'uib', 'piuh', 1)
+the values ('piuh', 'l;io;ih', 'kuhp', 'i;ub', 'uib', 'piuh', 1)
+the values ('piuh', 'l;io;ih', 'kuhp', 'i;ub', 'uib', 'piuh', 1)
+the values ('', 'l;io;ih', 'kuhp', '', '', 'piuh', 1)
